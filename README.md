@@ -1,2 +1,0 @@
-# Cd-Bau
-run.py
